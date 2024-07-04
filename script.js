@@ -1,0 +1,1 @@
+//https://api.openweathermap.org/data/2.5/weather?q={Berlin}&appid={72a18d77a71bdd747ffe208aee04bd67}
